@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8500 11000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:13.8858}
+    .fil3 {fill:none}
+    .fil0 {fill:#1E5FD1}
+    .fil1 {fill:#4E89F1}
+    .fil2 {fill:#FEFEFE;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M3129 3640l1607 0 966 988 0 2402c0,181 -148,330 -330,330l-2243 0c-181,0 -330,-148 -330,-330l0 -3061c0,-181 148,-330 330,-330z"/>
+  <path class="fil1" d="M3129 3640l1607 0 966 988 0 2227c0,181 -149,330 -330,330l-2243 0c-181,0 -330,-148 -330,-330l0 -2885c0,-181 148,-330 330,-330z"/>
+  <path class="fil0" d="M4724 3640l977 977 -648 0c-181,0 -330,-148 -330,-330l0 -647z"/>
+  <path class="fil2" d="M4921 5071l-585 206c-9,2 -15,6 -19,10l0 0c-6,8 -2,19 11,28l120 87c21,15 26,45 11,67l-183 256 -143 199 0 0c-15,21 -10,51 11,66l203 146c21,15 51,10 67,-11l323 -450 3 -4c15,-21 45,-26 66,-11l120 87c21,15 37,6 35,-20l9 -620c-2,-26 -25,-42 -50,-36z"/>
+  <path class="fil2" d="M3579 6340l585 -206c9,-2 15,-6 19,-10l0 0c6,-8 2,-19 -11,-28l-120 -87c-21,-15 -26,-45 -11,-67l183 -256 143 -199 0 0c15,-21 10,-51 -11,-66l-203 -146c-21,-15 -51,-10 -67,11l-323 450 -3 4c-15,21 -45,26 -66,11l-120 -87c-21,-15 -37,-6 -35,20l-9 620c2,26 25,42 50,36z"/>
+  <line class="fil3 str0" x1="3112" y1="4906" x2="5388" y2= "4906" />
+  <line class="fil3 str0" x1="5090" y1="5176" x2="5388" y2= "5176" />
+  <line class="fil3 str0" x1="5045" y1="5715" x2="5388" y2= "5715" />
+  <line class="fil3 str0" x1="4036" y1="6255" x2="5388" y2= "6255" />
+  <line class="fil3 str0" x1="3112" y1="6524" x2="5388" y2= "6524" />
+  <line class="fil3 str0" x1="3112" y1="4637" x2="5388" y2= "4637" />
+  <line class="fil3 str0" x1="3112" y1="4367" x2="4611" y2= "4367" />
+  <line class="fil3 str0" x1="3112" y1="4097" x2="4593" y2= "4097" />
+  <line class="fil3 str0" x1="3112" y1="6794" x2="5388" y2= "6794" />
+  <line class="fil3 str0" x1="3112" y1="5176" x2="4440" y2= "5176" />
+  <line class="fil3 str0" x1="3112" y1="5446" x2="3853" y2= "5446" />
+  <line class="fil3 str0" x1="5057" y1="5446" x2="5388" y2= "5446" />
+  <line class="fil3 str0" x1="3112" y1="5715" x2="3441" y2= "5715" />
+  <line class="fil3 str0" x1="4739" y1="5715" x2="4839" y2= "5715" />
+  <line class="fil3 str0" x1="3112" y1="5985" x2="3397" y2= "5985" />
+  <line class="fil3 str0" x1="4629" y1="5985" x2="5388" y2= "5985" />
+  <line class="fil3 str0" x1="3112" y1="6255" x2="3388" y2= "6255" />
+ </g>
+</svg>
